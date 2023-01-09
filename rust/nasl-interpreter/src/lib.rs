@@ -13,6 +13,7 @@ mod include;
 mod interpreter;
 mod loader;
 mod operator;
+mod loop_extension;
 
 pub use context::ContextType;
 pub use context::Register;
